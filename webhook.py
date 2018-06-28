@@ -6,6 +6,8 @@ def application(environ, start_response):
     if (path == '/hook'):
         os.system('cd /usr/share/nginx/www/myblog && git pull origin master')
         os.system('cd /home/gitpy && git pull origin master')
+	os.system('/home/sh/deploy.sh &')
+        print('deloy xiu success') 
         print('git pull finish')
         return [b'Hello, webhook has done!']
     if (path == '/hello'):

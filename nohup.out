@@ -1,0 +1,154 @@
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Updating e194657..9dcfa24
+Fast-forward
+ webhook.py |   15 +++++++++++----
+ 1 file changed, 11 insertions(+), 4 deletions(-)
+101.81.104.57 - - [28/Jun/2018 11:00:36] "GET /asdad/1231312 HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:00:38] "GET /favicon.ico HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:00:39] "GET /asdad/1231312 HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:00:40] "GET /favicon.ico HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:00:42] "GET /asdad/123123 HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:00:48] "GET /favicon.ico HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:00:50] "GET /123123123 HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:00:51] "GET /favicon.ico HTTP/1.1" 200 15
+101.81.104.57 - - [28/Jun/2018 11:02:15] "GET /123123123 HTTP/1.1" 200 15
+101.81.104.57 - - [28/Jun/2018 11:02:15] "GET /favicon.ico HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+101.81.104.57 - - [28/Jun/2018 11:02:19] "GET /hook HTTP/1.1" 200 24
+101.81.104.57 - - [28/Jun/2018 11:02:19] "GET /favicon.ico HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Updating d4700f2..4aaec93
+Fast-forward
+ index.html |    2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+192.30.252.45 - - [28/Jun/2018 11:04:39] "POST /hook HTTP/1.1" 200 24
+101.81.104.57 - - [28/Jun/2018 11:08:27] "GET / HTTP/1.1" 200 15
+101.81.104.57 - - [28/Jun/2018 11:08:27] "GET /favicon.ico HTTP/1.1" 200 15
+101.81.104.57 - - [28/Jun/2018 11:08:30] "GET / HTTP/1.1" 200 15
+101.81.104.57 - - [28/Jun/2018 11:08:30] "GET /favicon.ico HTTP/1.1" 200 15
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+106.120.160.109 - - [28/Jun/2018 11:23:52] "GET /hook HTTP/1.1" 200 24
+106.120.160.109 - - [28/Jun/2018 12:15:21] "GET / HTTP/1.1" 200 15
+101.199.108.118 - - [28/Jun/2018 12:54:03] "GET / HTTP/1.1" 200 15
+58.152.66.194 - - [28/Jun/2018 15:08:43] "HEAD / HTTP/1.0" 200 15
+181.21.85.236 - - [28/Jun/2018 15:30:43] "HEAD / HTTP/1.0" 200 15
+sh: 0: Can't open ./kill.sh
+sh: 0: Can't open ./kill.sh
+From https://github.com/lesliey/myblog
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+From https://github.com/lesliey/gitpy
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+192.30.252.38 - - [28/Jun/2018 16:15:56] "POST /hook HTTP/1.1" 200 24
+sh: 0: Can't open ./kill.sh
+sh: 0: Can't open ./kill.sh
+sh: 0: Can't open ./kill.sh
+Traceback (most recent call last):
+  File "start_webkook.py", line 4, in <module>
+    httpd = make_server('', 8000, application)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "start_webkook.py", line 4, in <module>
+    httpd = make_server('', 8000, application)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "start_webkook.py", line 4, in <module>
+    httpd = make_server('', 8000, application)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
